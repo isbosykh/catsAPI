@@ -76,6 +76,7 @@
 <style lang="scss">
     .infinite-loading-container {
         width: 100%;
+        height: 1px;
     }
     .spinner {
         font-family: 'Roboto Mono', monospace;
